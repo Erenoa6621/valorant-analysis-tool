@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+
+# Environment variables
+.env
+
+# Docker
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
